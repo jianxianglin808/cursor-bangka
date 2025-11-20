@@ -69,7 +69,7 @@
 **QQ群：342072085**  
 **群名：续杯超稳 7 群**
 
-<img src="https://via.placeholder.com/300x400/4A90E2/FFFFFF?text=QQ%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81" alt="QQ群二维码" width="300"/>
+<img src="./images/qq-qrcode.jpg" alt="QQ群二维码" width="300"/>
 
 *扫码加群，开启你的Cursor Pro之旅！*
 
